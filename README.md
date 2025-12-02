@@ -32,7 +32,7 @@ Strong foundation in **object-oriented programming, data structures, algorithms,
 | Backend | Node.js · Express.js |
 | Databases | MongoDB · MySQL |
 | Tools & Cloud | GitHub · Streamlit · Render |
-:contentReference[oaicite:8]{index=8}
+
 
 ---
 
