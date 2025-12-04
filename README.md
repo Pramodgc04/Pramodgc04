@@ -1,9 +1,14 @@
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90e2,100:2ecc71&height=230&section=header&text=Hi%20👋%20I'm%20Pramod%20Gurunath%20Chitrapur&fontSize=40&fontColor=ffffff" />
 
-## 🚀 Aspiring Software Developer | Full-Stack & Machine Learning Enthusiast
+## 👨‍💻 Software Developer in Progress — Fast Learner | Problem Solver | Tech-Adaptable
 
-I am a Computer Science undergraduate passionate about building **scalable full-stack systems**, **real-time communication platforms**, and **ML-powered applications**.  
-Strong foundation in **object-oriented programming, data structures, algorithms, and distributed systems**, and always excited to contribute to high-impact solutions. 
+I am a Computer Science undergraduate passionate about building **scalable full-stack systems**, **real-time communication platforms**, and **ML-driven applications**.  
+I have a strong foundation in **data structures, algorithms, object-oriented programming, and distributed system concepts**, and I enjoy applying them to create impactful products.
+
+I take pride in being a **quick learner and analytical problem solver**, always eager to explore and master new technologies.  
+I love tackling challenges, continuously upgrading my skills, and contributing to meaningful development work.
+
+💼 Open to opportunities across **any organization or domain**, where I can learn, collaborate, and deliver high-quality software solutions.
 
 ---
 
