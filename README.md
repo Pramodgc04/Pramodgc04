@@ -3,16 +3,16 @@
 ## 🚀 Aspiring Software Developer | Full-Stack & Machine Learning Enthusiast
 
 I am a Computer Science undergraduate passionate about building **scalable full-stack systems**, **real-time communication platforms**, and **ML-powered applications**.  
-Strong foundation in **object-oriented programming, data structures, algorithms, and distributed systems**, and always excited to contribute to high-impact solutions. :contentReference[oaicite:1]{index=1}
+Strong foundation in **object-oriented programming, data structures, algorithms, and distributed systems**, and always excited to contribute to high-impact solutions. 
 
 ---
 
 ### 🔥 Highlights
-- 🧠 Built **ChatBridge**, a real-time language exchange platform with messaging, video calls, screen sharing & reactions. :contentReference[oaicite:2]{index=2}  
-- 🤖 Developed **NLP-based disaster tweet classifier**, achieving **92% accuracy** using Word2Vec & Random Forest. :contentReference[oaicite:3]{index=3}  
-- 🏆 **Best Business Model Prize – FinZ** at National Hackathon. :contentReference[oaicite:4]{index=4}  
-- 📌 **Research paper co-author** — NAVISIGHT presented at **IEEE ICICI 2025**. :contentReference[oaicite:5]{index=5}  
-- 🔥 Earned **LeetCode 100 Days Badge** for consistent DSA problem-solving. :contentReference[oaicite:6]{index=6}
+- 🧠 Built **ChatBridge**, a real-time language exchange platform with messaging, video calls, screen sharing & reactions.
+- 🤖 Developed **NLP-based disaster tweet classifier**, achieving **92% accuracy** using Word2Vec & Random Forest.  
+- 🏆 **Best Business Model Prize – FinZ** at National Hackathon.
+- 📌 **Research paper co-author** — NAVISIGHT presented at **IEEE ICICI 2025**. 
+- 🔥 Earned **LeetCode 100 Days Badge** for consistent DSA problem-solving. 
 
 ---
 
@@ -20,7 +20,7 @@ Strong foundation in **object-oriented programming, data structures, algorithms,
 **AIML Intern – Infosys Springboard** (May 2024 – July 2024)  
 📍 Bengaluru, India  
 - Built and deployed an NLP system with **92% accuracy** on 10,000+ tweets.  
-- Integrated **Streamlit UI** and used **joblib** to reduce model load time by **40%**. :contentReference[oaicite:7]{index=7}
+- Integrated **Streamlit UI** and used **joblib** to reduce model load time by **40%**. 
 
 ---
 
@@ -43,7 +43,7 @@ Strong foundation in **object-oriented programming, data structures, algorithms,
 - Real-time messaging with typing indicators & reactions  
 - 1-on-1 & group video calls, screen sharing, recording  
 - JWT authentication, protected routes, dark/light themes  
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -52,7 +52,7 @@ Strong foundation in **object-oriented programming, data structures, algorithms,
 - Word2Vec embeddings + Random Forest classifier  
 - Advanced preprocessing (lemmatization, token filtering)  
 - Real-time prediction UI with Streamlit  
-:contentReference[oaicite:10]{index=10}
+
 
 ---
 
