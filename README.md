@@ -4,9 +4,7 @@
 
 I am a Computer Science undergraduate passionate about building **scalable full-stack systems**, **real-time communication platforms**, and **ML-driven applications**.  
 I have a strong foundation in **data structures, algorithms, object-oriented programming, and distributed system concepts**, and I enjoy applying them to create impactful products.
-
-I take pride in being a **quick learner and analytical problem solver**, always eager to explore and master new technologies.  
-I love tackling challenges, continuously upgrading my skills, and contributing to meaningful development work.
+I take pride in being a **quick learner and analytical problem solver**, always eager to explore and master new technologies. I love tackling challenges, continuously upgrading my skills, and contributing to meaningful development work.
 
 💼 Open to opportunities across **any organization or domain**, where I can learn, collaborate, and deliver high-quality software solutions.
 
