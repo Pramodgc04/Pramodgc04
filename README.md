@@ -35,6 +35,7 @@ I take pride in being a **quick learner and analytical problem solver**, always 
 | Backend | Node.js · Express.js |
 | Databases | MongoDB · MySQL |
 | Tools & Cloud | GitHub · Streamlit · Render |
+|AIMl | Gensim, NLTK, Scikit-learn |
 
 
 ---
